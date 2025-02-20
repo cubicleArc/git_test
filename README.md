@@ -1,2 +1,9 @@
 # git_test
-a test repio
+
+a test repo
+
+#sample
+
+## Install
+
+some random text
